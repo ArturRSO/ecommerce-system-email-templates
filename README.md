@@ -1,2 +1,2 @@
 # Front.E-commerce-System.Email.Templates
-Templates de e-mail utilizados no projeto
+E-mail templates used in the e-commerce system project.
